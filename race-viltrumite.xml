@@ -3,7 +3,7 @@
 	<info>
 		<name>Viltrumite</name>
 		<description></description>
-		<author url="https://github.com/Nuclearpotatorincorperated">Wizards of the Coast</author>
+		<author url="https://github.com/Nuclearpotatorincorperated">Uncooll</author>
 		<update version="0.1.0">
 			<file name="race-viltrumite.xml" url="https://raw.githubusercontent.com/Nuclearpotatorincorperated/DnD-Aurora/refs/heads/main/race-viltrumite.xml" />
 		</update>
@@ -37,8 +37,8 @@
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
 			<grant type="Language" id="ID_LANGUAGE_VILTRUMITE" />
 			<grant type="Language" id="ID_MM_LANGUAGE_AURAN" />
-			<grant type="Racial Trait" id="ID_WOTC_POTA_RACIAL_TRAIT_AARAKOCRA_FLIGHT" />
-			<grant type="Racial Trait" id="ID_WOTC_POTA_RACIAL_TRAIT_AARAKOCRA_TALONS" />
+			<grant type="Racial Trait" id="ID_UNCOOLL_RACIAL_TRAIT_VILTRUMITE_FLIGHT" />
+			<grant type="Racial Trait" id="ID_UNCOOLL_RACIAL_TRAIT_VILTRUMITE_FISTS" />
 		</rules>
 	</element>
 	<element name="Viltrumite" type="Language" source="UNCOOLL" id="ID_LANGUAGE_VILTRUMITE">
